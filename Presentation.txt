@@ -11,3 +11,12 @@ non-volatile memory technology under development. In this
 context I've widely used many Python packages like pandas,
 openpyxl etc. (mainly libraries to work with excel files and
 and data arrays).
+
+
+I have decided to enroll in this COS course as from
+the next August I will start a new position in Italy, in the 
+national central Bank, as ICT officer. I will work daily with 
+data and AI, which I have studied from the theoretical point of 
+view but I've never applied on the field. My expectation is
+to get more practical with these concepts, getting more
+prepared in view of my new work experience.
