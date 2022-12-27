@@ -1,0 +1,13 @@
+Hi everybody! 
+Here is Andrea Lippiello, an electronic engineer working
+at CERN for the upgrade of the safety systems in the LHC
+accelerator. 
+In my current job I am not using neither data
+analytics nor coding. Anyway, in my previous experience as 
+testing and characterization engineer at STMicroelectronics, 
+I was the person in charge of analyzing the electrical data 
+gained from the qualification test of an advanced electrical 
+non-volatile memory technology under development. In this
+context I've widely used many Python packages like pandas,
+openpyxl etc. (mainly libraries to work with excel files and
+and data arrays).
